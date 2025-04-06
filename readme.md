@@ -2,7 +2,7 @@
 In today's landscape, a restaurant's survival and success are influenced by various factors, including operational efficiency and digital presence. This research integrates Aspect-Based Sentiment Analysis (ABSA) with Survival Analysis to explore the impact of customer sentiment on restaurant closures in Ho Chi Minh City, Vietnam.
 
 ## 📄 Table of Contents
-- [� Restaurant Survival Analysis in Ho Chi Minh City](#-restaurant-survival-analysis-in-ho-chi-minh-city)
+- [📘 Restaurant Survival Analysis in Ho Chi Minh City](#-restaurant-survival-analysis-in-ho-chi-minh-city)
   - [📄 Table of Contents](#-table-of-contents)
   - [🔍 Overview](#-overview)
   - [✨ Key Features](#-key-features)
